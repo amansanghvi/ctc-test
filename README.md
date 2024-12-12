@@ -1,5 +1,7 @@
 # CTC React SDK
 
+# Getting Started
+
 Simple React components to embed Crypto Tax Calculator in your application.
 
 ## Installation
