@@ -6,6 +6,4 @@ CTC React makes it incredibly simple to add powerful crypto tax calculation feat
 
 [GitHub](https://github.com/cryptotaxcalculator/react-sdk/)
 [About the SDK](_about.md)
-[Getting Started](GettingStarted.md)
-
-<p>![color](linear-gradient(linear-gradient(to right, #FFFFFF 0%, #FFFFFF 20%, #CBB0F8 100%)))</p>
+[Getting Started](README.md)
