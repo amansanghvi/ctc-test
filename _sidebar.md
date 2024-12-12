@@ -1,1 +1,2 @@
-- [Read Me](README)
+- [About](_about)
+- [Getting Started](README)
