@@ -1,2 +1,2 @@
-- [About](_about)
-- [Getting Started](README)
+- [About](About)
+- [Getting Started](GettingStarted)
