@@ -1,1 +1,1 @@
-[../README.md](https://github.com/amansanghvi/ctc-test/blob/main/README.md ':include')
+[../README.md](https://raw.githubusercontent.com/amansanghvi/ctc-test/refs/heads/main/README.md ':include')
