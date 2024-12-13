@@ -1,22 +1,63 @@
 # CTC React SDK
 
-Get started with minimal effort to integrate a smooth, fully branded tax experience.
+Simple React components to embed Crypto Tax Calculator in your application.
 
+## Installation
 
-## Customize it your way
+This package is hosted on GitHub Packages and requires authentication.
 
-<!-- tabs:start -->
+1. Request an access token from the CTC team
+2. Create a `.npmrc` file in your project root:
 
-#### **Azure-Light**
+```ini
+@cryptotaxcalculator:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=YOUR_CTC_PROVIDED_TOKEN
+```
 
-![Azure Light Theme](media/azure.png)
+3. Install the package:
 
-#### **Cobalt-Light**
+```bash
+npm install @cryptotaxcalculator/react-sdk
+# or
+yarn add @cryptotaxcalculator/react-sdk
+# or
+pnpm add @cryptotaxcalculator/react-sdk
+```
 
-![Cobalt Light Theme](media/cobalt.png)
+## 🔧 Usage
 
-<!-- tabs:end -->
+```tsx
+import { TaxCalculator } from "@cryptotaxcalculator/react-sdk";
 
-## Getting started
+function App() {
+  return (
+    <div>
+      <h1>My Crypto App</h1>
+      <TaxCalculator />
+    </div>
+  );
+}
+```
 
-All you need to get started is send us your brand-kit theme, install the SDK, and render our Tax Hub component. Read more in [Getting Started](README)
+The `TaxCalculator` component will render a full-height iframe containing the Crypto Tax Calculator application.
+
+## Features
+
+- Simple drop-in integration
+- Responsive design
+- Environment-aware URLs
+- Customizable styling
+
+## 🤝 Requirements
+
+- React 18 or higher
+- Modern browser support
+- Valid authentication token from CTC team
+
+## License
+
+MIT © [Crypto Tax Calculator](https://cryptotaxcalculator.io)
+
+## Access
+
+This package requires authentication. Please contact the Crypto Tax Calculator team to request access and receive your authentication token.
