@@ -24,7 +24,7 @@ yarn add @cryptotaxcalculator/react-sdk
 pnpm add @cryptotaxcalculator/react-sdk
 ```
 
-## 🔧 Usage
+## Usage
 
 ```tsx
 import { TaxCalculator } from "@cryptotaxcalculator/react-sdk";
@@ -48,7 +48,7 @@ The `TaxCalculator` component will render a full-height iframe containing the Cr
 - Environment-aware URLs
 - Customizable styling
 
-## 🤝 Requirements
+## Requirements
 
 - React 18 or higher
 - Modern browser support
