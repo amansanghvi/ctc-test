@@ -9,7 +9,7 @@ Get started with minimal effort to integrate a smooth, fully branded tax experie
 
 #### **Cobalt**
 
-![Cobalt](media/Cobalt.png)
+![Cobalt](media/cobalt.png)
 
 #### **Purple**
 
