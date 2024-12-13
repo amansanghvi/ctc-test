@@ -7,13 +7,21 @@ Get started with minimal effort to integrate a smooth, fully branded tax experie
 
 <!-- tabs:start -->
 
-#### **Azure-Light**
+#### **Cobalt**
 
-![Azure Light Theme](media/azure.png)
+![Cobalt](media/Cobalt.png)
 
-#### **Cobalt-Light**
+#### **Purple**
 
-![Cobalt Light Theme](media/cobalt.png)
+![Purple Theme](media/Purple.png)
+
+#### **Blue Ribbon**
+
+![Blue Ribbon Theme](media/BlueRibbon.png)
+
+#### **BlackPink**
+
+![Black Pink Theme](media/Blackpink.png)
 
 <!-- tabs:end -->
 
